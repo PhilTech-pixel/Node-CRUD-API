@@ -1,1 +1,1 @@
-Simple CRUD API created By Node, Express and MongoDB
+Simple CRUD API created with Node, Express and MongoDB
